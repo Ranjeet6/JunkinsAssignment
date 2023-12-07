@@ -4,7 +4,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 script {
-                    git 'https://github.com/himanshuhsk01/pipeline.git'
+                    git 'https://github.com/Ranjeet6/JunkinsAssignment.git'
                 }
             }
         }      
